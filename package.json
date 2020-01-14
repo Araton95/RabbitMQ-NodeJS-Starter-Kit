@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Araton95/RabbitMQ-NodeJS-Starter-Kit/issues"
   },
-  "homepage": "https://github.com/Araton95/RabbitMQ-NodeJS-Starter-Kit#readme"
+  "homepage": "https://github.com/Araton95/RabbitMQ-NodeJS-Starter-Kit#readme",
+  "dependencies": {
+    "micromq": "^3.0.2"
+  }
 }
